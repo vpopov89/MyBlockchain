@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.acme.myblockchain.TransactionTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-04-08T14:51:17" hostname="viktor-IdeaPad-Flex-5-14ALC05" time="0.003">
-  <properties/>
-  <testcase name="transaction_with_empty_id_is_invalid()" classname="com.acme.myblockchain.TransactionTest" time="0.003"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
